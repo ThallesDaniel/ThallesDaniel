@@ -1,7 +1,7 @@
 
 # Muito Prazer,
 
-Meu nome é Thalles, e fico feliz em te ver por aqui
+Meu nome é Thalles, e fico feliz em te ver por aqui!
 
 
 
