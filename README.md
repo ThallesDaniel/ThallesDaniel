@@ -22,9 +22,9 @@ tenho conhecimento em:
 ## 🛠 Habilidades
 **Front-end:** HTML, CSS, JavaScript
 
-**Frameworks:** Bootstrap, jQuery, React
-
 **Back-end:** Python, C++, PHP
+
+**Frameworks:** Bootstrap, jQuery, React
 
 **Banco de dados:** conhecimento em SQL 
 
