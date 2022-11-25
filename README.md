@@ -42,7 +42,7 @@ Caso queira entrar em contato, fale comigo pelo:
 
 Se você tiver algum feedback, por favor me fala ai!!
 
-[![Discord](https://img.shields.io/badge/-Discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/#0463)
+[![Discord](https://img.shields.io/badge/-Discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/𝔓𝔢𝔰𝔱𝔦𝔠𝔦𝔡𝔢✞𝒴𝓊𝓀𝓀𝓎#0463.)
 
 
 ![alt text](https://data.whicdn.com/images/251113003/original.gif)
