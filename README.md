@@ -22,11 +22,13 @@ tenho conhecimento em:
 ## 🛠 Habilidades
 **Front-end:** HTML, CSS, JavaScript
 
-**Back-end:** Python, C++, PHP
+**Back-end:** Python, C++, PHP, Java
 
 **Frameworks:** Bootstrap, jQuery, React
 
 **Banco de dados:** conhecimento em SQL 
+
+**Mobile:** Aprendendo Flutter/Dart
 
 ##  Contato
 Caso queira entrar em contato, fale comigo pelo:
