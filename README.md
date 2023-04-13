@@ -20,11 +20,13 @@ tenho conhecimento em:
 
 
 ## 🛠 Habilidades
-**Front-end:** HTML, CSS, JavaScript
+**Front-end:** HTML, CSS, JavaScript, Typescript
 
 **Back-end:** Python, C++, PHP, Java
 
-**Frameworks:** Bootstrap, jQuery, React
+**Biblioteca js:** React.js
+
+**Frameworks:** Bootstrap, jQuery, Next.js
 
 **Banco de dados:** SQL 
 
