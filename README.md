@@ -13,8 +13,8 @@ Meu nome é Thalles, e fico feliz em te ver por aqui!
 
 ## um pouco sobre mim
 
-Estudo desenvolvimento de sistemas na unidade senai CTTI,
-pretendo lotar este github com projetos meus em breve, e espero que alguns sejam úteis para você.
+Formado em desenvolvimento de sistemas,
+pretendo lotar este github com meus projetos, e espero que alguns sejam úteis para você.
 tenho conhecimento em:
 
 
