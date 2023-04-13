@@ -26,7 +26,7 @@ tenho conhecimento em:
 
 **Frameworks:** Bootstrap, jQuery, React
 
-**Banco de dados:** conhecimento em SQL 
+**Banco de dados:** SQL 
 
 **Mobile:** Aprendendo Flutter/Dart
 
