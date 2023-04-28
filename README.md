@@ -13,7 +13,7 @@ Meu nome é Thalles, e fico feliz em te ver por aqui!
 
 ## um pouco sobre mim
 
-Formado em desenvolvimento de sistemas,
+Formado em Desenvolvimento de Sistemas, e cursando Sistemas da Informação,
 pretendo lotar este github com meus projetos, e espero que alguns sejam úteis para você.
 tenho conhecimento em:
 
@@ -26,9 +26,9 @@ tenho conhecimento em:
 
 **Biblioteca js:** React.js, jQuery
 
-**Frameworks:** Bootstrap, Next.js
+**Frameworks:** Bootstrap, Next.js, Aprendendo Django
 
-**Banco de dados:** SQL 
+**Banco de dados:** SQL, Aprendendo NoSQL
 
 **Mobile:** Aprendendo Flutter/Dart
 
