@@ -26,7 +26,7 @@ tenho conhecimento em:
 
 **Biblioteca js:** React.js, jQuery
 
-**Frameworks:** Bootstrap, Next.js, Aprendendo Django
+**Frameworks:** Angular, Bootstrap, Next.js, Aprendendo Django e Spring - Spring boot
 
 **Banco de dados:** SQL, Aprendendo NoSQL
 
