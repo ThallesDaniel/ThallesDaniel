@@ -22,7 +22,7 @@ tenho conhecimento em:
 ## 🛠 Habilidades
 **Front-end:** HTML, CSS, ScSS, JavaScript, Typescript
 
-**Back-end:** Python, C++, PHP, Java
+**Back-end:** Python, PHP, Java
 
 **Biblioteca js:** React.js, jQuery
 
