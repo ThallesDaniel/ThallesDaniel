@@ -54,4 +54,4 @@ Se você tiver algum feedback, por favor me fala ai!!
 
 ![alt text](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ThallesDaniel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesDaniel)](https://github.com/anuraghazra/github-readme-stats)
