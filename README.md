@@ -49,9 +49,10 @@ Se você tiver algum feedback, por favor me fala ai!!
 [![Discord](https://img.shields.io/badge/-Discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/𝔓𝔢𝔰𝔱𝔦𝔠𝔦𝔡𝔢✞𝒴𝓊𝓀𝓀𝓎#0463.)
 
 
-![alt text](https://data.whicdn.com/images/251113003/original.gif)
+
 
 
 ![alt text](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ThallesDaniel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesDaniel&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesDaniel&layout=compact)
+
