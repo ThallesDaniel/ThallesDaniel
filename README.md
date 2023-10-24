@@ -2,6 +2,7 @@
 # Muito Prazer,
 
 Meu nome é Thalles, e fico feliz em te ver por aqui!
+Após ler, dá uma passada no meu portifólio: https://thallesdaniel.vercel.app/
 
 
 
