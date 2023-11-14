@@ -41,7 +41,7 @@ Caso queira entrar em contato, fale comigo pelo:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-daniel-66a604229)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Thallez7?t=rqtgLRcewoIdhWGtfOLAGA&s=09)
-[![Discord](https://img.shields.io/badge/-Discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/toorudev.)
+[![Discord](https://img.shields.io/badge/-Discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/toorudev)
 
 ## Feedback
 
