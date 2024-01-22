@@ -27,11 +27,10 @@ tenho conhecimento em:
 
 **Biblioteca js:** React.js, jQuery
 
-**Frameworks:** Angular, Bootstrap, Spring - Spring boot, Next.js, Aprendendo Django
+**Frameworks:** Angular, Bootstrap, Spring - Spring boot
 
 **Banco de dados:** SQL, Aprendendo NoSQL
 
-**Mobile:** Aprendendo Flutter/Dart
 
 ##  Contato
 Caso queira entrar em contato, fale comigo pelo:
