@@ -25,7 +25,7 @@ tenho conhecimento em:
 
 **Back-end:** Python, PHP, Java
 
-**Biblioteca js:** React.js, jQuery
+**Biblioteca js:** jQuery
 
 **Frameworks:** Angular, Bootstrap, Spring - Spring boot
 
