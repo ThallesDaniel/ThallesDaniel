@@ -31,6 +31,8 @@ tenho conhecimento em:
 
 **Banco de dados:** SQL, Aprendendo NoSQL
 
+**Aprendizado Solo:** Hacking Ético || Segurança Digital, Docker
+
 
 ##  Contato
 Caso queira entrar em contato, fale comigo pelo:
