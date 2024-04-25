@@ -50,7 +50,7 @@ Caso queira entrar em contato, fale comigo pelo:
 Se você tiver algum feedback, por favor me fala ai!!
 
 [![Discord](https://img.shields.io/badge/-Discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/toorudev.)
-
+[![telegram](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5531998518179)
 
 
 
