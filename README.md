@@ -16,7 +16,7 @@ Após ler, dá uma passada no meu portifólio: https://thallesdaniel.vercel.app/
 
 Formado em Desenvolvimento de Sistemas, e cursando Sistemas da Informação,
 pretendo lotar este github com meus projetos, e espero que alguns sejam úteis para você.
-tenho conhecimento em:
+Estou me especializando em Angular, Spring e Postgres, mas também tenho conhecimento em:
 
 
 
