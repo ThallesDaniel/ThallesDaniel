@@ -31,7 +31,7 @@ Estou me especializando em Angular, Spring e Postgres, mas também tenho conheci
 
 **Banco de dados:** SQL, Aprendendo NoSQL
 
-**Aprendizado Solo:** Hacking Ético || Segurança Digital, Docker
+**Aprendizado Solo:** Hacking Ético || Segurança Digital, Docker, Web 3(Blockchain e desenvolvimento de criptomoeda)
 
 
 ##  Contato
