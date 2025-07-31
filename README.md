@@ -23,11 +23,11 @@ Estou me especializando em Angular, Spring e Postgres, mas também tenho conheci
 ## 🛠 Habilidades
 **Front-end:** HTML, CSS, ScSS, JavaScript, Typescript
 
-**Back-end:** Python, PHP, Java
+**Back-end:** Python, PHP, Java, Solidity
 
 **Biblioteca js:** jQuery
 
-**Frameworks:** Angular, Bootstrap, Spring - Spring boot
+**Frameworks:** Angular, Bootstrap, Spring - Spring boot, HardHat, Truffle
 
 **Banco de dados:** SQL, Aprendendo NoSQL
 
