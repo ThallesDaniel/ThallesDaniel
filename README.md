@@ -25,7 +25,7 @@ Estou me especializando em Angular, Spring e Postgres, mas também tenho conheci
 
 **Back-end:** Python, PHP, Java, Solidity
 
-**Biblioteca js:** jQuery
+**Biblioteca js:** jQuery, React/Next.js
 
 **Frameworks:** Angular, Bootstrap, Spring - Spring boot, HardHat, Truffle
 
